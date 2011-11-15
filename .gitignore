@@ -11,4 +11,5 @@ build-eclipse
 *.ipr
 *.iws
 .idea
+target
 metastore_db
